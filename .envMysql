@@ -1,0 +1,4 @@
+MYSQL_ROOT_PASSWORD=<Password>
+MYSQL_DATABASE=shinobi
+MYSQL_USER=shinobi
+MYSQL_PASSWORD=<Password>

@@ -1,0 +1,6 @@
+DB_USER=shinobi
+DB_PASSWORD=<Password>
+DB_HOST=db
+DB_DATABASE=shinobi
+SSL_ENABLED=false
+DB_DISABLE_INCLUDED=true
